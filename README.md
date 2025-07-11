@@ -23,9 +23,8 @@ Load `freertos_monitor.elf` on your Cortex-M microcontroller or simulator.
 
 ## Sample Output
 
-![CPU Load Over Time](/mnt/data/cpu_load.png)
-![Stack Usage Over Time](/mnt/data/stack_usage.png)
-
+![CPU Load Over Time](images/cpu_load.png)
+![Stack Usage Over Time](images/stack_usage.png)
 ## File Structure
 
 ```
